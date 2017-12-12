@@ -1,10 +1,13 @@
 ######################################################
 # Introdução Linguagem R
-# Vitor Passos Rios
+# Raissa Oliveira
+# prof Vitor Rios
 # Universidade Federal da Bahia
 # https://github.com/vrios/Intro-Linguagem-R/wiki
 #####################################################
 
+
+#ATividade#
 #####Usando o R como calculadora#####
 
 #Digite no R os códigos abaixo.
@@ -104,3 +107,6 @@ setwd("C:/CavernaDoDragão")
 getwd #não é possivel mudar o diretorio de trabalho
 Getwd() #Função não reconheceda
 #dica: quando o R der erro, copie e cole a mensagem de erro no google
+
+
+##FIM##
