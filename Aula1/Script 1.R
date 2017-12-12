@@ -1,13 +1,11 @@
 ######################################################
 # Introdução Linguagem R
 # Raissa Oliveira
-# prof Vitor Rios
 # Universidade Federal da Bahia
 # https://github.com/vrios/Intro-Linguagem-R/wiki
 #####################################################
 
 
-#ATividade#
 #####Usando o R como calculadora#####
 
 #Digite no R os códigos abaixo.
@@ -109,4 +107,3 @@ Getwd() #Função não reconheceda
 #dica: quando o R der erro, copie e cole a mensagem de erro no google
 
 
-##FIM##
